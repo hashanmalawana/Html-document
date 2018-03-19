@@ -2,4 +2,6 @@
 <head>    <style>   
 h1 { font-family:'Lobster', arial, serif; }    </style>   
 <link href='http://fonts.googleapis.com/css?family=Lobster'      rel='stylesheet' type='text/css'>  </head>  
-<body>    <h1>Hello hashan malawana</h1>  </body> </html>
+<body>    <h1>Hello hashan malawana</h1> 
+<h1>Yes it works</h1>
+</body> </html>
